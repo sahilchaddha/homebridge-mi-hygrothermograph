@@ -39,7 +39,7 @@
   "dependencies": {
     "fakegato-history": "^0.5.2",
     "mqtt": "^2.18.2",
-    "noble": "^1.9.1"
+    "noble": "sahilchaddha/noble"
   },
   "devDependencies": {
     "coveralls": "^3.0.2",
